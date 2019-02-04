@@ -1,11 +1,12 @@
 import java.util.*;
 
 public class Recursion {
-  public static String f(int k, String s) {
-    return "hi";
+  public static ArrayList<String> makeAllWords(int k, String s) {
+    ArrayList<String> res = new ArrayList<String>();
+    return m()
   }
 
-  public static List<String> makeAllWords(int k, int max) {
+  public static ArrayList<String> m(int k, int c, int Max) {
     return null;
   }
 
